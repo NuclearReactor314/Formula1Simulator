@@ -3,6 +3,11 @@ body, h1, button {
     padding: 0;
 }
 
+body { 
+padding:60px 0 0 0:
+background-image : url(Formula1Logo.jpg) no-repeat top left; 
+}
+
 body {
     background-color: navy;
     color: white;
@@ -31,6 +36,5 @@ button {
 
 button:hover {
     background-color: #0056b3;
-    logo { background : url(Formula1Logo.jpg); }
 
 }
